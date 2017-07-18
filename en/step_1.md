@@ -1,19 +1,30 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+Imagine a future when trips back and forth to the moon become as common as flying on an airplane.  Some scientists believe we are not far from a time when this might be true. What would some of the dangers of this be? Would it be safe for someone to travel to the moon alone?
 
-### What you will make
+In this activity we are going to simulate a dangerous situation of someone who is stranded on the moon.
 
-Add something here to showcase here, for example:
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+<div class="trinket">
+  <iframe src="https://trinket.io/embed/python/8b8ed41726?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  </iframe>
+  <img src="images/mh-final.png">
 </div>
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
+### Additional information for club leaders
 
-### What you will learn
+If you need to print this project, please use the [Printer friendly version](./print).
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level)
+
+
+--- collapse ---
+---
+title: Project materials
+---
+## Project resources
+* [Offline project resources](resources/moonhack-python-17.py)
+
+## Club leader resources
+* [Offline completed project](resources/moonhack-python-17-finished.py)
+
+--- /collapse ---
