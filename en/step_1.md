@@ -12,7 +12,7 @@ In this activity we are going to simulate a dangerous situation of someone who i
 
 ### Additional information for club leaders
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/moonhack-python/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/moonhack-python/print).
 
 
 
